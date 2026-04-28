@@ -532,6 +532,16 @@ h1,h2,h3,h4{font-family:'Raleway',sans-serif;line-height:1.2}
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
 </style>
+<script>
+/* go=<id>: hide body before paint so we never flash the top of the page */
+(function(){
+  if(!/[?&]go=([\w-]+)/.test(location.search))return;
+  var s=document.createElement('style');
+  s.id='__go_hide__';
+  s.textContent='body{visibility:hidden}';
+  (document.head||document.documentElement).appendChild(s);
+})();
+</script>
 </head>
 <body>
 
@@ -1254,8 +1264,10 @@ function toggleCase(btn){
     window.scrollTo({top:Math.max(0,y),behavior:'instant'});
   }
   scrollGo();
+  var __reveal=function(){var h=document.getElementById('__go_hide__');if(h)h.remove();};
+  __reveal();
   window.addEventListener('load',function(){
-    [200,600,1200,2500].forEach(function(t){setTimeout(scrollGo,t);});
+    [200,600,1200,2500].forEach(function(t){setTimeout(function(){scrollGo();__reveal();},t);});
   });
 })();
 </script>
