@@ -1,1 +1,15 @@
-{"id":"/sitemap.xml","path":"/sitemap.xml","sha":"8ae38fd4d8ad4447c57895234732c8364b630a05","mime_type":"application/xml","size":274,"site_id":"a50b93c7-1ae8-464b-94dd-ee1a8fe47c85","deploy_id":"69d023564d902b9ddb932654"}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://withheart-marketing.com/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://withheart-marketing.com/work-with-me/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
