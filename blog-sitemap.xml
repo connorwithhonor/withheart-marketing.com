@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Clean blog sitemap for blog.withheart-marketing.com, served from the main
+     domain because the GHL-generated blog sitemap emits 11 malformed
+     "...comundefined/author|category/..." URLs that cannot be fixed at source. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://blog.withheart-marketing.com/post/brand-consistency-connection-heart-centered-brand-marketing</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/heart-centered-marketing-strategy-health-wellness-brands</loc><lastmod>2026-07-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/heart-centered-brand-messaging</loc><lastmod>2026-06-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/brand-identity-more-than-your-logo</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/root-brand-clarity-heart-centered-brand-marketing</loc><lastmod>2026-06-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/overwhelmed-with-marketing-clarity-before-more-content</loc><lastmod>2026-05-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/heart-centered-marketing-strategy-clarity-before-tactics</loc><lastmod>2026-05-19</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/brand-clarity-heart-centered-brand-marketing</loc><lastmod>2026-05-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/heart-centered-brand-marketing-health-wellness-brands</loc><lastmod>2026-05-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-heart-centered-brand-marketing</loc><lastmod>2026-04-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-a-brand-marketing-consultant</loc><lastmod>2026-04-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-brand-marketing</loc><lastmod>2026-04-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/how-to-build-a-brand-people-feel-connected-to</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/when-your-brand-is-clear-everything-else-follows</loc><lastmod>2026-04-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-heart-centered-brand-strategy</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-a-brand-strategy-and-why-do-you-need-it</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/signs-your-business-needs-more-brand-clarity</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/brand-strategy-vs-marketing-strategy</loc><lastmod>2026-03-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/why-your-marketing-feels-off</loc><lastmod>2026-03-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://blog.withheart-marketing.com/post/what-is-brand-clarity</loc><lastmod>2026-03-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://withheart-marketing.com/sitemap.xml
+Sitemap: https://withheart-marketing.com/blog-sitemap.xml
